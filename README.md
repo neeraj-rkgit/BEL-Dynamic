@@ -19,3 +19,12 @@ Display the organization tree  <br>
  Make sure your browser allows HTTP requests to localhost from a file. If it blocks, consider using a local server:   <br>
 bash  ->  npx serve .   <br>
 <hr>
+<hr>
+<hr>
+Update MySQL Table Schema  <br>
+Use MySQL terminal:  <br>
+ALTER TABLE employees ADD COLUMN location VARCHAR(100);  <br>
+ALTER TABLE employees ADD COLUMN gender VARCHAR(10);  <br>
+ <br>
+  <br>
+Updates:  server.js, upload.js, script.js, MySQL schema
