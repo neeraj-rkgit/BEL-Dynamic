@@ -4,7 +4,7 @@
 DB_HOST=localhost <br>
 DB_USER=root <br> 
 DB_PASSWORD=your_password_here <br>
-DB_NAME=bel_org_tree <br>
+DB_NAME=org_tree <br>
 <hr>
 Install Node.js & Dependencies <br>
  In terminal, go to backend/ folder and in terminal run the commands: npm install express cors mysql2 multer xlsx dotenv <br>
