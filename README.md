@@ -9,7 +9,7 @@ DB_NAME=org_tree <br>
 Install Node.js & Dependencies <br>
  In terminal, go to backend/ folder and in terminal run the commands: npm install express cors mysql2 multer xlsx dotenv <br>
  <hr>
-4. Start the Backend Server <br> 
+4. Start the Backend Server  :  node server.js <br> 
 <hr> 
 5. Done! App Will:  <br>
 Automatically create employees table if not present  <br>
